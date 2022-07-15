@@ -1,0 +1,7 @@
+1.界面布局
+2.支持ViewBinding
+3.数据模型ViewModel实现数据分离
+    MainViewModel
+        num1 operation
+        num2 -> 可观察
+        result detail->可观察
